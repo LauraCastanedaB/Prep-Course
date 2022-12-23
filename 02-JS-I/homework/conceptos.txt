@@ -1,0 +1,19 @@
+Variables: Es un lugar donde se puede almacenar informacion, se le asigna un nombre, y se iguala a
+la informacion que se quiera almacenar, esta puede ser de varios tipos como cadenas de texto, numeros o boleanos
+y como su nombre lo indica pueden variar o se puede modificar en cualquier otra parte del codigo. 
+
+Strings: Son cadenas de texto generalmente palabras, estas se deben poner entre comillas para ser leidas por JS
+
+Funciones: Es la asignación de una tarea, en ella se pueden hacer preguntas, poner condiciones y con respecto
+a la respuesta o al proceso se realizan acciones, las funciones sirven especialmente en momenotos donde hay 
+tareas repetitivas, por ende con el fin de no realizar el mismo codigo o procedimiento varias veces, se llama 
+la funcion las veces que sea necesario.
+Las funciones pueden tener argumentos que son los parametros que se le dan a la tarea
+algunas veces las funciones simplemente realizan una acción otras veces procesan información y dan un resultado
+en estos casos para acceder a dicho resultado la funcion debe retornar ese valor con el parametro 'return'
+de lo contrario el alcance del scope no le permitirá acceder al resultado 
+
+Declaraciones 'if': if significa si, y sirve para realizar preguntas de comparación, si pasó eso, realice esta 
+acción 
+
+Valores booleanos: permite dar solucion a preguntas donde solo hay falso o verdadero 
