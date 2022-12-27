@@ -1,0 +1,11 @@
+for: es un bucle de informacion, que puede realizar tareas repetitivas, necesita de tres argumentos, el primero es la variable que vamos a 
+usar como contador, a esta se le da un valor de inicio, luego se le dice hasta que valor va a llegar o donde para esta variable, y finalmente 
+el contador incrementando ++
+
+`&&`: operador and que significa y este se usa para establecer que dos o mas condiciones se cumplan, si alguna es falsa inmediatamnete sale del bucle 
+        por que no se cumple la condicion 
+
+`||`:  operador or que significa o y se usa para dejar que se realice una sentencia si alguna de las condiciones se cumple 
+
+
+`!`: operador not es una negacion a cualquier sentencia que se pase 
