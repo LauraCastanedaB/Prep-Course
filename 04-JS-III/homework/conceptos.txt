@@ -1,0 +1,2 @@
+Arrays: es una variable que puede tener varios elementos en su interior como listas, cada uno es guardada en una posicion que empieza 
+a partir de 0, los elementos guardados en un arreglo pueden ser de cualquier tipo incluso otrso arrays 
