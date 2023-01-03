@@ -1,0 +1,18 @@
+Objetos: Son un nivel avanzado de los arreglos, son varables en las que se pueden guardar diferentes items llamados propiedades
+ y cada uno de ellos tiene un valor otorgado, las propiedades se ubican como una lista y son separadas por coma, para declarar los 
+ objetos se deben usar {} los corchetes 
+ ejm: Objeto={proiedade1, propiedad2, propieadad3()}
+ las funciones en objetos son llamadas metodos. 
+
+Propiedades: son los diferentes elementos de la lista de items creados dentro de un objeto, son los titulos o nombres que le vamos a 
+dar a un valor. 
+
+Métodos: son las funciones que se crean dentro de un objeto, estas pueden realizar cualquier accion pero se debe tener en cuenta la asignacion 
+de valores que js trae para ejecutar la funcion por ende se utiliza la palabra clave this. para dar al programa una orden de lectura especifica 
+
+Bucle `for…in`: como en los arreglos, es necesario recorrer la lista de propiedades para acceder a ellas, pero en el caso de los objetos 
+no estan especificadas en el orden de los numeros para la posicion en el arregloe, los objetos tienen para cada propiedad el nombre o clave y
+el valor, se usa el for…in para recorrer el objeto
+ejm: for(let clave in NombredelObjeto){}
+
+Notación de puntos vs notación de corchetes: son utilizados para acceder a los valores de las propiedades dentro de los arreglos
