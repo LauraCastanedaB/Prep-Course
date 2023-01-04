@@ -1,0 +1,6 @@
+`prototype`: es una una coleccion de metodos o funciones compartidas por los objetos que estan en el mismo objeto 
+
+ _Constructors_ (de Clases): la funcion constructor sirve para establecer una plantilla en la creacion de nuevos objetos, entonces 
+ cuando se quiere crear un nuevo objeto que tiene la misma estructura, se llama la funcion constructor de la clase a la que pertenece el 
+ objeto a traves de la palabra clave new y esta agrega el objeto, es importante en la funcion constructor usar el this. para aclarar 
+ que pertenece a cada objeto. 
