@@ -1,0 +1,7 @@
+Funciones Callback : las funciones algunas veces tienen que realizar tareas repetitivas o dirigirse a otros lugares del codigo donde ya 
+se han solucionado problemas con funciones, las funciones pueden ser llamadas desde otras funciones, a esto se le llama Callback 
+en caso de que se necesite procesar un parametro desde otra funcion y traerlo de regreso para realizar otro proceso en la nueva funcion 
+es importante no invocar la funcion () con parentesis para que no traiga un resultado sino solo el nombre de la funcion para que vaya hasta
+ella. 
+Relacionando este concepto, con los metodos que tienen los prototipos de cada elemento, podemos usar los elementos y crear funciones, 
+ya sea desde el metodo o con callback 
