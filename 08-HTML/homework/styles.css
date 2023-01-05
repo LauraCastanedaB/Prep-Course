@@ -1,13 +1,39 @@
-h1 {color: rgb(4, 34, 170);}
-img{width: 400px ;}
-#thirdDiv{
-    height: 600px; 
-    width: 500px;
-    background-color: rgb(209, 237, 249);
-    padding: 50px;
-    border: thick double #222223;
+body{
+    width:90%;
+    margin:0px auto;
+    text-align: center;
+    background-image: url(https://img.freepik.com/foto-gratis/vegetales-puestos-izquierda-pizarra-negra_1220-685.jpg?w=1380&t=st=1672935680~exp=1672936280~hmac=9efb8c0dc28267022cf9d7ce9560177bee2162c1c6c39c71be58ee65f3b7d0ed);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
 }
-#spanId{
-    font-size: 18px;
-    margin: 50px;
+h1,h2,h4 {
+    color: rgb(255, 255, 255);
+}
+h1{
+   text-align: left;
+   padding-left: 10%;
+}
+h2, h4{
+    text-align: left;
+}
+img{
+    width: 13% ;
+    border-radius: 10px ;;
+}
+#spanId, a{
+    font-size: 20px;
+    color: rgb(249, 239, 226);
+    text-shadow: black 0.6em 0.4em 0.3em;
+}
+
+#thirdDiv{
+    height: auto; 
+    margin-top: 2%;
+    background-color: rgba(243, 220, 188, 0.568);
+    box-sizing: border-box;  
+}
+li{
+    display: inline;
+    font-size: 20px;
 }
