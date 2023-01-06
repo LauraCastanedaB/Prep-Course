@@ -1,0 +1,34 @@
+#contacto{
+    width: 25%;
+    padding: 3%;
+    justify-content: space-around;
+}
+.info{
+    background-color: bisque;
+    padding: 3%;
+}
+#perfil{
+    width: 70%;
+    padding: 3%;
+}
+body{
+
+    background-color: beige;
+    display: flex;
+    flex-direction: row;
+    border: solid black;
+}
+img{
+    width: 45%;
+    margin-bottom: 3%;
+    display: block;
+    margin: 0% auto;
+}
+h1{
+    font-size:xx-large;
+    padding-left: 10%;
+}
+.educacion{
+    width: 40%;
+    display: inline-block;
+}
